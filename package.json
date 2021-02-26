@@ -1,0 +1,23 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mystic1301/xyz1.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mystic1301/xyz1.io/issues"
+  },
+  "homepage": "https://github.com/mystic1301/xyz1.io#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
